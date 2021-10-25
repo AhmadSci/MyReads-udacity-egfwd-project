@@ -18,6 +18,7 @@ A starter template and a [`backend API`](src/BooksAPI.js) was provided to get bo
 I refactored the static code into react components, following DOT (Do One Thing) rule.
 
 ---------
+## [Live DEMO](https://myreads-egfwd-ahmed.netlify.app/)
 ## DEMO
 ![screenshot1](./public/Screenshot_3.jpg)
 ![screenshot2](./public/Screenshot_1.jpg)
